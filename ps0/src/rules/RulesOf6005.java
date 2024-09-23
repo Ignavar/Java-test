@@ -46,7 +46,6 @@ public class RulesOf6005 {
         ) {
             return true;
         }
-        // TODO: Fill in this method, then remove the exception
         return false;
     }
 
